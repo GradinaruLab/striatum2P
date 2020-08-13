@@ -10,3 +10,7 @@ Basic_Extraction_Analysis.m calculates event rates per minute and average magnit
 
 
 Batch_Process_Spatial_Correlation_Analysis.m and Batch_Process_Synchrony_Analysis.m are used to obtain spatial correlation and synchrony measurements reported in our paper for any number of files obtained from Suite2P. Point them to the directory Required_Scripts to run this script.
+
+If there are any questions/problems, please contact Adi: adi.nair@caltech.edu and Xinhong Chen xchen3@caltech.edu
+
+
